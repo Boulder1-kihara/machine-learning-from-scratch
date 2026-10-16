@@ -1,3 +1,3 @@
 # machine-learning-from-scratch
 
-Hello learner and welcome to thia repo. This repo will teach
+Hello learner and welcome to thia repo. This repo will teach you how
