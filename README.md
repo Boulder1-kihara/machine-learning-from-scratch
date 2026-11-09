@@ -1,5 +1,1 @@
-# machine-learning-from-scratch
-
-Hello learner and welcome to thia repo. This repo will teach you how to build your own machine learning model and neural networks from scratch on a single colab notebook.
-
-made with love 💕 😘 by Abel Kihara.
+# machine-learning-from-scratch\n\nHello learner and welcome to this repository. It teaches you how to build machine learning models and neural networks from scratch in a single Colab notebook.\n\nOpen `Machine_learning_models.ipynb` in Google Colab or Jupyter to follow the examples.\n\nMade with love by Abel Kihara.\n
